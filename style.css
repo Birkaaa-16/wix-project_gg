@@ -57,3 +57,16 @@ nav {
     }
   }
 }
+
+.background {
+  background-image: url(./imgg.avif);
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 1500px;
+  height: 800px;
+  background-attachment: fixed;
+}
+
+main {
+  height: 2000px;
+}
