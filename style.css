@@ -135,3 +135,16 @@ div.table_one {
     font-size: 30px;
   }
 }
+
+div.background_two {
+  background-image: url(./img/people.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 700px;
+  height: 700px;
+}
+
+img.car {
+  width: 380px;
+  height: 375px;
+}
